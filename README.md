@@ -76,4 +76,6 @@ It's Totaly Open Source Project.
 Faysal Sabbir - [https://twitter.com/faysalsabbir_a](https://twitter.com/faysalsabbir_a) - faysalsabbir.a@gmail.com
 
 <!--Project Link: [beatboxer](https://github.com/faysalsabbir/beatboxer)-->
+Inspired by: Clever Programmer(PWJ)
+
 
